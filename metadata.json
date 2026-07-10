@@ -1,0 +1,6 @@
+{
+  "name": "3D Boxing Arena",
+  "description": "3D Boxing Ring Game featuring customizable fighters, physics boundary, special skills, auto-fight mode, and a progression system leading to the Final Boss.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
